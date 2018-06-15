@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.122225">
+<testcase classname="Life of a IT Guy" name="_2" time="0.110051">
+<system-out><![CDATA[Given I am a "Sridevi"......................................................passed
+When I fix "great"..........................................................passed
+Then I get appreciated by "Shang"...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Calculator Subraction" name="_2" time="0.012174">
+<system-out><![CDATA[Given I am a "Miithiles"....................................................passed
+And I do good "Good"........................................................passed
+When I find "great".........................................................passed
+Then I get appreciated by "Shang"...........................................passed
+And salary "thirty".........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
